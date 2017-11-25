@@ -1,0 +1,10 @@
+/* Reset jquery.bxslider.css */
+.bx-viewport {
+  left: 0;
+  box-shadow: none;
+  border: none;
+}
+#slider li {
+  height: 100vh;
+  background: center / cover no-repeat;
+}
